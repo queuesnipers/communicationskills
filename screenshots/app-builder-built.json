@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kindred",
+      "hasCanvas": false,
+      "bodyTextLen": 977,
+      "bodyTextHash": "00b4e3ea83c02b578ed8346dc1fa1552710f4ba42b8953f3b16c836f06e83b55",
+      "bodyTextPrefix": "Kindred Your conversations Sign in ROMANTIC COMMUNICATION, PRACT",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kindred",
+      "hasCanvas": false,
+      "bodyTextLen": 958,
+      "bodyTextHash": "a898ce47ea0a275a7021fd384db7ff86955fcfee9eecac5a059cae56c3605ad2",
+      "bodyTextPrefix": "Kindred Sign in ROMANTIC COMMUNICATION, PRACTICED Say the hard t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)"
+  ]
+}
